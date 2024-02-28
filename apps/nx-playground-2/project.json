@@ -1,0 +1,8 @@
+{
+  "name": "nx-playground-2",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/nx-playground-2",
+  "projectType": "application",
+  "targets": {},
+  "tags": []
+}
